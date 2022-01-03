@@ -33,4 +33,4 @@ If there are not more empty cells, the game is over..
 # Better version:
 If there are some possible additon on the grid, the computer shoud add them when I keep pressing the arrow keys and the game should be over when I cannot add more numbers and there are not more empty cells.
 
-![Wireframe](https://docs.google.com/presentation/d/1EM855kE8e9apxrt0EAS8daO0Mav4I1Ct14HnwtxUiFE/edit?usp=sharing)
+![wireframe](wireframe2048.png)
